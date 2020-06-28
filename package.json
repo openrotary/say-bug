@@ -1,0 +1,16 @@
+{
+  "name": "say-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "bin": {
+    "tf": "index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "prettier": "^2.0.5"
+  }
+}
